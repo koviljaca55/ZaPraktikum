@@ -1,0 +1,28 @@
+.body1{
+	background-image:url("slike/slika6.jpg");
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	background-size:cover;
+	
+}
+.body2{
+	background-image:url("slike/slika123.jpg");
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	background-size:cover;
+}
+.body3{
+	background-image:url("slike/slika12.png");
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	background-size:cover;
+}
+.body4{
+	background-image:url("slike/slika133.jpg");
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	background-size:cover;
+}
+.lista{
+text-align:center;
+}
